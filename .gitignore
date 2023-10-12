@@ -1,0 +1,5 @@
+node_modules/*
+*.asc
+*.txt
+*.pgp
+package-lock.json
